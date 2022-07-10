@@ -1,0 +1,20 @@
+*.class
+.eclipse
+*.project
+.project
+.settings
+# Package Files #
+*.jar
+*.war
+*.ear
+.idea
+*.iml
+target
+*.iml
+data/*
+velocity.log
+*.DS_Store
+test/integration/nbactions.xml
+audit.log
+audit.*.log
+
